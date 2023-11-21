@@ -5,7 +5,9 @@ Power BI by establishing a gateway connection object in the BI tool.
 
 The dashboard consists of two tabs, 
   1. one illustrating the Performance metrics of the store by week and by the type fo pizza
-![image](https://github.com/krishna-gollapalli/Power-BI-Custom-Made-Reports-Pizza-Sales-Report---KPIs/assets/31197358/1088799f-3d72-4d35-887d-b750b0c7fcff)
+![image](https://github.com/krishna-gollapalli/Power-BI-Reports-Custom-made/assets/31197358/75c58e8b-0a17-466c-a11c-52aa71907537)
+
 
   2. second tab depicts the top perfromers in terms of sales given the timeframe. 
-![image](https://github.com/krishna-gollapalli/Power-BI-Custom-Made-Reports-Pizza-Sales-Report---KPIs/assets/31197358/3484115a-7dd2-4b64-bde9-3671ec4c2df9)
+![image](https://github.com/krishna-gollapalli/Power-BI-Reports-Custom-made/assets/31197358/370f6546-88a1-430b-8a8c-0cc681473541)
+
